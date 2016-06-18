@@ -2,7 +2,7 @@ $:.unshift File.expand_path("../lib", __FILE__)
 require "libv8/version"
 
 Gem::Specification.new do |s|
-  s.name        = "libv8"
+  s.name        = "libv8old"
   s.version     = Libv8::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Charles Lowell"]
